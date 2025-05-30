@@ -12,7 +12,8 @@
 :root {
   --primary: #7D5FFF;
   --secondary: #FFF4B8;
-  --bg-dark: #554D75;
+/*   --bg-dark: #554D75; */
+  --bg-dark: #000000;
   --white: #fff;
   --footer-bg: #7D5FFF;
   --footer-text: #FFF4B8;
